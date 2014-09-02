@@ -1,0 +1,19 @@
+---
+Title: ZZZ
+---
+This is a test page, definition list and `no_markup = true` causes unescaped text.
+
+Text <b>HTML</b>
+
+Good definition
+: Apple
+
+Bad definition
+ a
+A
+: x
+
+Proof of concept
+<div style="width:100px; height:100px; background-color:#000">XSS</div>
+ x
+: x
