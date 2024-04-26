@@ -1,2 +1,2 @@
-yellowcms-tests
-===============
+yellow-tests
+============
